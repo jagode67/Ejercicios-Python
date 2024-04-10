@@ -1,0 +1,52 @@
+E001
+Crear una variable con el nombre ‘miVariable’, cargar el valor “Hola” y mostrarlo por pantalla.
+
+E002
+Crear la variable ‘x’ con el valor 1, crear la variable ‘y’ con el valor 2, crear la variable ‘z’ con la suma de la variable ‘x’ e ‘y’. Mostrar el valor de la variable ‘z’ por pantalla
+
+E003
+Crear la variable ‘cadena’ con el valor “Javi”. Mostrar por pantalla el texto “Hola” y el contenido de la variable ‘cadena’
+
+E004
+Crear la variable ‘saludo’ con el valor “Hola”. Crear la variable ‘cadena’ con el valor “Javi”. Mostrar por pantalla la concatenación de la variable ‘saludo’ con la variable ‘cadena’
+
+E005
+Pedir por pantalla un nombre con el texto “¿Cuál es tu nombre?” y a continuación mostrar por pantalla “Hola” y el nombre introducido
+
+E006
+Pide un nombre por pantalla, a continuación, pide un apellido por pantalla. Muestra a continuación el apellido, una coma y el nombre, todo en la misma línea.
+
+E007
+Pide primero un número por pantalla, a continuación, pide otro número y muestra la suma de ambos. Pista: tendrás que utilizar un operador cast
+
+E008
+Pide primero un número por pantalla, a continuación, pide otro número y muestra los siguientes resultados utilizado estos datos: la suma, la resta, la multiplicación, la división, la división entera, el resto de la división (el módulo), y el exponente
+
+ 
+E009
+Pedir por pantalla el alto y el ancho de un rectángulo. Mostrar el área y el perímetro del mismo.
+
+E010
+Solicitar por pantalla un número y decir si es par o impar
+
+E011
+Solicitar por pantalla una edad y decir si es mayor de edad o no
+
+E012
+Pedir un número por pantalla y decir si está entre el 5 y el 10 (ambos inclusive). Utilizar el operador ‘and’
+
+E013
+Pedir un número por pantalla y decir si está entre el 5 y el 10 (ambos inclusive). NO utilizar el operador ‘and’
+
+E014
+Pedir al usuario dos números y pintar por pantalla cuál es el mayor
+
+E015
+Un usuario tiene que proporcionar la siguiente información:
+-	Nombre de libro
+-	ID
+-	Precio (con decimales)
+-	Si el envío es gratuito (el usuario pone True o False)
+Mostrar la información utilizando tres comillas,  print(f’’’………..’’’)
+
+

@@ -1,0 +1,2 @@
+miVariable="Hola"
+print(miVariable)
