@@ -1,3 +1,10 @@
+'''Un usuario tiene que proporcionar la siguiente información:
+-	Nombre de libro
+-	ID
+-	Precio (con decimales)
+-	Si el envío es gratuito (el usuario pone True o False)
+Mostrar la información utilizando tres comillas,  print(f’’’………..’’’)
+'''
 print('Proporcione los siguientes datos del libro: ')
 nombre = input('Proporciona el nombre del libro: ')
 id = int(input('Proporciona el ID del libro: '))

@@ -1,3 +1,4 @@
+#Solicitar por pantalla una edad y decir si es mayor de edad o no
 edadAdulto = 18
 edadPersona = int(input("Proporciona tu edad: "))
 

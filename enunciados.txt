@@ -50,3 +50,110 @@ Un usuario tiene que proporcionar la siguiente información:
 Mostrar la información utilizando tres comillas,  print(f’’’………..’’’)
 
 
+E016
+Cambiar el separador del comando print para escribir en la consola “palabras-separadas-por-guiones”
+
+
+E017
+Solicitar un nombre por pantalla y cargarlo en una variable. Mostrar el texto “Nombre: XXXX”, utilizando el comando print junto con f y la variable con {}
+
+E018
+Imprimir 25 asteriscos con la sentencia print (no escribir los 25 asteriscos dentro del comando)
+
+E019
+Pedir por pantalla una edad, y decir si es mayor de edad o menor de edad.
+
+E020
+Pedir un número por pantalla y decir si es par o impar.
+
+E021
+Pedir un número por pantalla y decir si es positivo, igual a 0 o negativo. Utilizar if elif y else.
+
+E022
+Pedir un número por pantalla y decir si es par, igual a 0 o impar. Utilizar if elif y else.
+
+E023
+Pedir un número por pantalla y decir por pantalla “uno” si es 1, “dos” si es 2, “tres” si es 3, o “fuera de rango” si es cualquier otro valor. Utilizar if elif y else.
+
+E024
+Solicitar una edad y decir si es mayor de edad o menor. Utilizar un operador ternario
+
+E025
+Solicitar un número y decir si es par o impar. Utilizar un operador ternario
+
+
+E026
+Pedir una opción por pantalla y decir por pantalla si es “opción 1” , “opción 2”, “opción 3 o 4”, “ninguna de las anteriores”. Utilizar un match case
+
+E027
+Solicitar un mes por pantalla y decir a que estación del año pertenece (del mes 1 al 3: invierno, del mes 4 al 6: primavera, del mes 7 al 9: verano y del mes 10 al 12: otoño)
+
+E028
+Pedir una nota del 0 al 10 por teclado que puede tener decimales y transformarla en:
+•	Si está entre 9 y 10: imprimir una A
+•	Si está entre 8 y menor a 9: imprimir una B
+•	Si está entre 7 y menor a 8: imprimir una C
+•	Si está entre 6 y menor a 7: imprimir una D
+•	Si está entre 0 y menor a 6: imprimir una F
+•	Cualquier otro valor debe imprimir: Valor incorrecto
+
+E029
+Sacar por pantalla los números del 1 al 10. Utilizar un while
+
+E030
+Pedir un número por pantalla y mostrar con un guion en medio todos los números desde el cero hasta ese valor introducido. Utilizar un while
+
+E031
+Pedir un número por pantalla y mostrar con un asterisco en medio todos los números desde el número introducido hasta el cero. Utilizar un while
+
+E032
+Imprimir por pantalla números desde el 0 al 10. Utilizar un for
+
+E033
+Imprimir por pantalla números desde el 5 al 15. Poner un guion entre los números mostrados. Utilizar un for
+
+E034
+Imprimir por pantalla números desde el 5 al 15 de dos en dos (5-7-9-11-13-15-). Poner un guion entre los números mostrados. Utilizar un for
+
+E035
+Pedir un número por pantalla y sacar por pantalla desde ese número hasta el 1. Utilizar un for
+
+E036
+Pedir una palabra por teclado y sacar por pantalla letra a letra. Utilizar un for
+
+E037
+Pedir una palabra por teclado y sacar por pantalla letra a letra hasta que aparezca la letra o. Utilizar un for y break
+
+E038
+Escribir un programa que pida al usuario un número entero positivo y muestre por pantalla la suma de todos los números desde 1 hasta ese número.
+
+E039
+Escribir un programa que pida al usuario dos números enteros positivos y muestre por pantalla la tabla de multiplicar del primer número hasta el segundo número.
+
+E040
+Escribir un programa que simule un juego de adivinanzas. El programa debe generar un número aleatorio entre 1 y 100 y el usuario debe intentar adivinarlo. El programa debe dar pistas al usuario sobre si su suposición es mayor o menor que el número aleatorio. Al final debe mostrar en cuantos intentos lo has conseguido adivinar.
+Generar un número aleatorio del 1 al 100
+import random
+numero_aleatorio = random.randint(1, 100)
+
+E041
+Escribir un programa que imprima la suma de los números pares del 1 al 100.
+E042
+Escribir un programa que pida al usuario una cadena de caracteres y luego imprima la cadena al revés.
+len(cadena): cantidad de caracteres de una cadena
+
+E043
+Escribir un programa que imprima una tabla de multiplicar del 1 al 10.
+
+E044
+Solicitar un número y escribir una pirámide de números hasta ese número.
+Introduce la altura del triángulo: 6
+     1
+    1 2
+   1 2 3
+  1 2 3 4
+ 1 2 3 4 5
+1 2 3 4 5 6
+
+
+https://github.com/jagode67/Ejercicios-Python

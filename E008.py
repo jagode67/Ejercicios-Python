@@ -1,3 +1,4 @@
+#Pide primero un número por pantalla, a continuación, pide otro número y muestra los siguientes resultados utilizado estos datos: la suma, la resta, la multiplicación, la división, la división entera, el resto de la división (el módulo), y el exponente
 opA=input("Primer número: ")
 opB=input("Segundo número: ")
 #si opA=3 y opB=2 daria los resultado

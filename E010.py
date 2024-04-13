@@ -1,3 +1,4 @@
+#Solicitar por pantalla un número y decir si es par o impar
 a = int(input('Escribe un valor numérico: '))
 
 #print(a % 2)
